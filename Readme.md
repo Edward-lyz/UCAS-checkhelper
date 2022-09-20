@@ -8,7 +8,7 @@
 
 ## Step 1：下载本仓库源码
 
-![](photos\photo1.png)
+![](photos/photo1.png)
 
 ## Step 2: 获取所需cookie
 
@@ -16,11 +16,11 @@
 
 - 点开chrome左上角的小锁图标，找到cookie
 
-  ![](photos\photo2.png)
+  ![](photos/photo2.png)
 
 - 找到UUkey和eai-sess的值：
 
-![](photos\photo3.png)
+![](photos/photo3.png)
 
 - 获取pushplus的token：首先注册登录（也就是微信扫码关注就行），其次打开 [该网页](https://www.pushplus.plus/push1.html)，复制粘贴你的token，如图：
 
