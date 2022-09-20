@@ -1,7 +1,7 @@
 import time
 import requests
 
-url = "https://app.ucas.ac.cn/ncov/api/default/save"        # 学院填报接口
+url = "https://app.ucas.ac.cn/ucasncov/api/default/save"        # 学院填报接口
 token = ""                  # pushplus token
 title= '每日疫情填报结果' #改成你要的标题内容
 mes_url="http://www.pushplus.plus/customer/push/send"# pushplus推送url，无需更改

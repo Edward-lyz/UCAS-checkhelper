@@ -3,7 +3,7 @@
 ## 所需环境：
 
 - python3
-- requests
+- requests(安装指令：`pip install requests`)
 - pushplus注册(后文会讲)
 
 ## Step 1：下载本仓库源码
