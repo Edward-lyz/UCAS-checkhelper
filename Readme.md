@@ -24,7 +24,7 @@
 
 - 获取pushplus的token：首先注册登录（也就是微信扫码关注就行），其次打开 [该网页](https://www.pushplus.plus/push1.html)，复制粘贴你的token，如图：
 
-  ![](photos\photo4.png)
+  ![](photos/photo4.png)
 
 ## Step 3 修改report.py 文件中的个人信息
 
